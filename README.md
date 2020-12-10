@@ -10,7 +10,7 @@
   <img align="left" alt="Sahaj's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=davesahaj.davesahaj)
+![](https://visitor-badge.glitch.me/badge?page_id=davesahaj.presto)
 
 <br />
 
