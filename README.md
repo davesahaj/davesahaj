@@ -10,8 +10,6 @@
   <img align="left" alt="Sahaj's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=davesahaj.presto)
-
 <br />
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahajdave/)
