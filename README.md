@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahaj Dave</h1>
 <h3
- align="center">I'm a Masters student of Computer Science at DAIICT, 
+ align="center">I'm pursuing Masters in Computer Science at DAIICT, 
 Gandhinagar with my bachelors from Symbiosis International University, 
 Pune. I am passionate about automating things, building open source 
 tools, exploring scalability problems and improving efficiency and 
