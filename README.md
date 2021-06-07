@@ -23,11 +23,6 @@
 ## My Stats
 ![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=davesahaj&show_icons=true&theme=cobalt)
 
-### Connect with me:
-
-[<img align="left" alt="192.168.0.dave | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Facebook]
-[<img align="left" alt="sahajdave | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="weirdindianguy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
