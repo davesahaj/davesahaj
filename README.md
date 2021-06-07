@@ -1,5 +1,5 @@
 <h1 align="center"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> 
-Hi 👋, I'm Sahaj Dave</h1>
+Hi 👋, I'm Sahaj Dave
 <hr/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=davesahaj&theme=radical&row=1&no-bg=true&no-frame=true"/>
