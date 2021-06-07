@@ -2,8 +2,8 @@
  Hey there, I'm Sahaj Dave 
 <hr/>
 <p><a href="https://www.linkedin.com/in/sahajdave/"><img src="https://img.shields.io/badge/-sahajdave-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/sahajdave/" alt="Linkedin Badge"></a>
-<a href="https://instagram.com/weirdindianguy"><img src="https://img.shields.io/badge/-@weirdindianguy?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/weirdindianguy/" alt="Instagram Badge"></a>
-<a href="mailto:sahajdave@protonmail.com"><img src="https://img.shields.io/badge/-sahajdave-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:me@piyushmehta.com" alt="Gmail Badge"></a>
+<a href="https://instagram.com/weirdindianguy"><img src="https://img.shields.io/badge/-weirdindianguy?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/weirdindianguy/" alt="Instagram Badge"></a>
+<a href="mailto:sahajdave@protonmail.com"><img src="https://img.shields.io/badge/-sahajdave-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:sahajdave@protonmail.com" alt="Gmail Badge"></a>
 <img src="https://komarev.com/ghpvc/?username=davesahaj&amp;style=flat-square&amp;color=blueviolet" alt=""></p>
 
 
