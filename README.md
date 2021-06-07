@@ -1,168 +1,43 @@
-<h1 align="center">Hi!, I'm Sahaj Dave</h1>
-<h4
- align="center">I'm pursuing Masters in Computer Science at DAIICT, 
-Gandhinagar with my bachelors from Symbiosis International University, 
-Pune. I am passionate about automating things, building open source 
-tools, exploring scalability problems and improving efficiency and 
-performance.</h4>
+<h1 align="center"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> 
+ Hey there, I'm Sahaj Dave 
+<hr/>
+<p><a href="https://www.linkedin.com/in/sahajdave/"><img src="https://img.shields.io/badge/-sahajdave-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/sahajdave/" alt="Linkedin Badge"></a>
+<a href="https://instagram.com/weirdindianguy"><img src="https://img.shields.io/badge/-@weirdindianguy?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/weirdindianguy/" alt="Instagram Badge"></a>
+<a href="mailto:sahajdave@protonmail.com"><img src="https://img.shields.io/badge/-sahajdave-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:me@piyushmehta.com" alt="Gmail Badge"></a>
+<img src="https://komarev.com/ghpvc/?username=davesahaj&amp;style=flat-square&amp;color=blueviolet" alt=""></p>
 
-<p align="left"> <a 
-href="https://github.com/ryo-ma/github-profile-trophy"><img 
-src="https://github-profile-trophy.vercel.app/?username=davesahaj" 
-alt="davesahaj" /></a> </p>
 
-- 🔭 I’m currently working on [Linux CLI System Monitor](https://github.com/davesahaj/Linux-System-Monitor)
+<img src="https://github-profile-trophy.vercel.app/?username=davesahaj&theme=radical&row=1&no-bg=true&no-frame=true"/>
+</h1>
 
-- 🌱 I’m currently learning **mongoDB, advanced Java**
+## I'm a Software Dev and a spiritualist :))
+ <img align="right" alt="GIF" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?raw=true" width="220" height="220" />
 
-- 👨‍💻 All of my projects are available at [www.github.com/davesahaj](www.github.com/davesahaj)
+- 🔭 Building automations for world 🌐
+- 😉 Known for converting coffee into code!
+- 🌱 Current Tech stack: Python Stack 🔥
+- 📱 Currently working 'API first' Development
+- 👯 I’m always open to collaborate with other Open Source Developers
+- 💬 Ask me about anything, I am happy to help
 
-- 📝 I regularly write articles on [www.medium.com/davesahaj](www.medium.com/davesahaj)
+## My Stats
+![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=davesahaj&show_icons=true&theme=cobalt)
 
-- 💬 Ask me about **anything, I am happy to help :))**
+### Connect with me:
 
-- 📫 How to reach me **sahajdave@gmail.com**
+[<img align="left" alt="192.168.0.dave | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Facebook]
+[<img align="left" alt="sahajdave | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="weirdindianguy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- 📄 Know about my experiences [drive.google.com](drive.google.com)
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a
- href="https://fb.com/192.168.0.dave" target="blank"><img 
-align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
- alt="192.168.0.dave" height="30" width="40" /></a>
-<a 
-href="https://instagram.com/weirdindianguy" target="blank"><img 
-align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
- alt="weirdindianguy" height="30" width="40" /></a>
-<a 
-href="https://medium.com/@sahajdave" target="blank"><img 
-align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" 
-alt="@sahajdave" height="30" width="40" /></a>
-<a 
-href="https://auth.geeksforgeeks.org/user/sahajdave/profile" 
-target="blank"><img align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg"
- alt="sahajdave/profile" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-        <a href="https://aws.amazon.com" target="_blank">
-          <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-        </a>
-        <a href="https://azure.microsoft.com/en-in/" target="_blank">
-          <img 
-src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
- alt="azure" width="40" height="40"/>
-        </a>
-        <a href="https://getbootstrap.com" target="_blank">
-          <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"
- alt="bootstrap" width="40" height="40"/>
-        </a>
-        <a href="https://www.cprogramming.com/" target="_blank">
-          <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"
- alt="c" width="40" height="40"/>
-        </a>
-        <a href="https://www.chartjs.org" target="_blank">
-          <img src="https://www.chartjs.org/media/logo-title.svg" 
-alt="chartjs" width="40" height="40"/>
-        </a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank">
-          <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
- alt="cplusplus" width="40" height="40"/>
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank">
-          <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"
- alt="css3" width="40" height="40"/>
-        </a>
-        <a href="https://www.djangoproject.com/" target="_blank">
-          <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg"
- alt="django" width="40" height="40"/>
-        </a>
-        <a href="https://flask.palletsprojects.com/" 
-target="_blank">
-          <img 
-src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
- alt="flask" width="40" height="40"/>
-        </a>
-        <a href="https://graphql.org" target="_blank">
-          <img 
-src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" 
-alt="graphql" width="40" height="40"/>
-        </a>
-        <a href="https://heroku.com" target="_blank">
-          <img 
-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" 
-alt="heroku" width="40" height="40"/>
-        </a>
-        <a href="https://www.w3.org/html/" target="_blank">
-          <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
- alt="html5" width="40" height="40"/>
-        </a>
-        <a href="https://www.java.com" target="_blank">
-          <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"
- alt="java" width="40" height="40"/>
-        </a>
-        <a href="https://www.linux.org/" target="_blank">
-          <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"
- alt="linux" width="40" height="40"/>
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank">
-          <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
- alt="mongodb" width="40" height="40"/>
-        </a>
-        <a href="https://www.mysql.com/" target="_blank">
-          <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"
- alt="mysql" width="40" height="40"/>
-        </a>
-        <a href="https://nodejs.org" target="_blank">
-          <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
- alt="nodejs" width="40" height="40"/>
-        </a>
-        <a href="https://www.postgresql.org" target="_blank">
-          <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
- alt="postgresql" width="40" height="40"/>
-        </a>
-        <a href="https://www.python.org" target="_blank">
-          <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"
- alt="python" width="40" height="40"/>
-        </a>
-        <a href="https://www.qt.io/" target="_blank">
-          <img 
-src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"
- alt="qt" width="40" height="40"/>
-        </a>
-        <a href="https://sass-lang.com" target="_blank">
-          <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
- alt="sass" width="40" height="40"/>
-        </a>
-        </p>
+### 🚀 Resume
 
-<p><img align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=davesahaj&show_icons=true&locale=en&layout=compact"
- alt="davesahaj" /></p>
+<details>
+  <summary>:zap: Open It</summary>
 
-<p>&nbsp;<img 
-align="center" 
-src="https://github-readme-stats.vercel.app/api?username=davesahaj&show_icons=true&locale=en"
- alt="davesahaj" /></p>
+![Dave's Resume](_resume_.gif)
 
+</details>
 
