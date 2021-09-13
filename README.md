@@ -6,7 +6,8 @@ Hi 👋, I'm Sahaj Dave
 </h1>
 
 
-<h3 align="center">I'm a passionate Software Dev :))</h3>
+<h3 align="center">I'm a passionate Software Dev who love building things in JavaScript, specially with React. Currently 
+working with React, Node.js and Express.js to build full stack applications.</h3>
  <img align="right" alt="GIF" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?raw=true" width="220" height="220" />
  
  
@@ -17,7 +18,7 @@ Hi 👋, I'm Sahaj Dave
 
 - 🔭 Building automations for world 🌐
 - 😉 Known for converting coffee into code!
-- 🌱 Current Tech stack: Python Stack 🔥
+- 🌱 Current Tech stack: MERN Stack 🔥
 - 📱 Currently working 'API first' Development
 - 👯 I’m always open to collaborate with other Open Source Developers
 - 💬 Ask me about anything, I am happy to help
