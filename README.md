@@ -47,7 +47,7 @@ working with React, Node.js and Express.js to build full stack applications.</h3
 <a href="https://linkedin.com/in/sahajdave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahajdave" height="30" width="40" /></a>
 <a href="https://fb.com/192.168.0.dave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="192.168.0.dave" height="30" width="40" /></a>
 <a href="https://instagram.com/weirdindianguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="weirdindianguy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/davesahaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="davesahaj" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sahajdave" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="davesahaj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
