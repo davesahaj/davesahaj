@@ -35,7 +35,7 @@ working with React, Node.js and Express.js to build full stack applications.</h3
 <details>
   <summary>:zap: Open It</summary>
 
-![Dave's Resume](_resume_.gif)
+![Dave's Resume](SahajDave_Resume.pdf)
 
 </details>
 
