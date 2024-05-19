@@ -1,3 +1,6 @@
+# 💫 About Me:
+I am a software developer. I build things for the web, mostly using React. Sometimes I play with GoLang and spring boot as well.<br><br>In free time, I usually either work on side projects or learn about new stuff related to web development. Or just play video games.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahajdave) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/heysahajdave) 
@@ -11,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=davesahaj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=davesahaj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=davesahaj&icon=0&color=0)](https://visitcount.itsvg.in)
