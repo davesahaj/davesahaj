@@ -15,7 +15,3 @@ I am a software developer. I build things for the web, mostly using React. Somet
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=davesahaj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=davesahaj&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
