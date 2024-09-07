@@ -1,4 +1,4 @@
-💫 I am a software developer. I build things for the web, mostly using React. Sometimes I play with GoLang and spring boot as well.<br><br>In free time, I usually either work on hobby projects or learn about new stuff related to web development OR just play story driven video games.
+💫 Software developer. I build things for the web, mostly using React. Sometimes I play with GoLang and spring boot as well.<br><br>In free time, I usually either work on hobby projects or learn about new stuff related to web development OR just play No Man's Sky.
 
 
 ## 🌐 Socials:
